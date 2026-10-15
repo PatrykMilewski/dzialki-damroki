@@ -1,5 +1,7 @@
 # Damroki — analiza działek
 
+Scenariusz zakupu: jeden dom wolnostojący i ogród na obu parcelach.
+
 Publiczny raport dotyczący działek 768/136 i 768/137 w Chwaszczynie. Stan danych: 15 października 2026 r.
 
 Strona: https://patrykmilewski.github.io/dzialki-damroki/
